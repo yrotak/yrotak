@@ -28,7 +28,7 @@
 - Japanese (Low level, learning)
 
 ## 🎭Future projects:
-- Cryptocurrency wallet `Web`
+- Cryptocurrency wallet `idk`
 - PipeSRC sdk `C++`
 - RayAnticheat (Usermode anti cheat) `C++`
 
