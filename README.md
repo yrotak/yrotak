@@ -16,7 +16,7 @@
 - Python
 - Assembly code (8086)
 
-## 👨‍🎓What I want learning:
+## 👨‍🎓What I want to learn:
 - Go lang
 - Ruby
 - Rust
