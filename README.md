@@ -16,7 +16,7 @@
 - Python
 - Assembly code (8086)
 - PHP
-- - Rust
+- Rust
 
 ## 👨‍🎓What I want to learn:
 - Go lang
