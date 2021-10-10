@@ -6,7 +6,7 @@
 - Rayshooter (PIPE SRC) `C++`
 - Api protection `Web`
 
-## 🥇Programation language:
+## 🥇Programming language:
 - HTML
 - CSS (SCSS)
 - JS (NodeJS, Vanilla, ReactJS)
@@ -15,11 +15,12 @@
 - Java
 - Python
 - Assembly code (8086)
+- PHP
+- - Rust
 
 ## 👨‍🎓What I want to learn:
 - Go lang
 - Ruby
-- Rust
 
 ## 📚Languages:
 - French (Native)
