@@ -3,29 +3,55 @@
 
 ## 🎈Currently working on:
 - Cryptoip `JS`
-- Rayshooter (PIPE SRC) `C++`
-- Api protection `Web`
+- Discord message encryptor `C++`
 
 ## 🥇Programming language:
 <p align="center">
- <img src="c.svg"/>
-
+<img src="c.svg" width="32" height="32" alt="C++"/>
+<img src="html5.svg" width="32" height="32" alt="HTML"/>
+<img src="css3.svg" width="32" height="32" alt="CSS" />
+<img src="javascript.svg" width="32" height="32" alt="Javascript" />
+<img src="csharp.svg" width="32" height="32" alt="C#" />
+<img src="java.svg" width="32" height="32" alt="Java" />
+<img src="php.svg" width="32" height="32" alt="PHP" />
+<img src="rust.svg" width="32" height="32" alt="Rust" />
+<img src="python.svg" width="32" height="32" alt="Python" />
+<img src="lua.svg" width="32" height="32" alt="Lua" />
 
 </p>
-- HTML
-- CSS (SCSS)
-- JS (NodeJS, Vanilla, ReactJS)
-- C++, C
-- C#
-- Java
-- Python
-- Assembly code (8086)
-- PHP
-- Rust
 
+## 🖋️Frameworks or library known:
+<p align="center">
+<img src="electron.svg" width="32" height="32" alt="Electron"/>
+<img src="react.svg" width="32" height="32" alt="React"/>
+<img src="node-js.svg" width="32" height="32" alt="NodeJS" />
+<img src="webpack.svg" width="32" height="32" alt="Webpack" />
+
+</p>
+
+## 🗃️Database known:
+<p align="center">
+<img src="mysql.svg" width="32" height="32" alt="MySQL"/>
+<img src="mongodb.svg" width="32" height="32" alt="MongoDB"/>
+
+</p>
 ## 👨‍🎓What I want to learn:
 - Go lang
 - Ruby
+
+## 📈 GitHub stats
+
+​<p align="center">
+
+<img src="https://github-readme-stats-zenixas.vercel.app/api?username=DrayNeur&count_private=true&layout=compact&hide=issues&show_icons=true&theme=dark" />
+
+</p>
+
+<p align="center"> 
+
+<img src="https://github-readme-stats-zenixas.vercel.app/api/top-langs/?username=DrayNeur&layout=compact&theme=dark" /> 
+
+</p>
 
 ## 📚Languages:
 - French (Native)
@@ -34,11 +60,13 @@
 - Japanese (Low level, learning)
 
 ## 🎭Future projects:
-- Cryptocurrency wallet `idk`
-- PipeSRC sdk `C++`
-- RayAnticheat (Usermode anti cheat) `C++`
+- Mobile application `React Native`
+- Youtube video cutter and download `NextJS`
+- RayAnticheat `C++`
 
-### Contact:
+### 🧾Contact:
 - Telegram: @beifungxiao
+- Website: Https://drayneur.gq/
+- Email: drayneur@drayneur.gq
 
 #### Have a nice day 👌
