@@ -1,11 +1,12 @@
 # DrayNeur
-👋 Hi my name is Dimitri Ivanov I'm developer since my young ages and I really like computer science, crytography and math. I'm open for any project..
+👋 Hi my name is Dimitri Ivanov I'm developer since my young ages and I really like computer science, crytography and math. I'm open for any project.
 
 ## 🎈Currently working on:
 - Cryptoip `JS`
 - Discord message encryptor `C++`
 
 ## 🥇Programming language:
+
 <p align="center">
 <img src="c.svg" width="32" height="32" alt="C++"/>
 <img src="html5.svg" width="32" height="32" alt="HTML"/>
@@ -21,6 +22,7 @@
 </p>
 
 ## 🖋️Frameworks or library known:
+
 <p align="center">
 <img src="electron.svg" width="32" height="32" alt="Electron"/>
 <img src="react.svg" width="32" height="32" alt="React"/>
@@ -30,28 +32,22 @@
 </p>
 
 ## 🗃️Database known:
+
 <p align="center">
 <img src="mysql.svg" width="32" height="32" alt="MySQL"/>
 <img src="mongodb.svg" width="32" height="32" alt="MongoDB"/>
 
 </p>
+
 ## 👨‍🎓What I want to learn:
 - Go lang
 - Ruby
 
 ## 📈 GitHub stats
 
-​<p align="center">
+![DrayNeur's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrayNeur&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats-zenixas.vercel.app/api?username=DrayNeur&count_private=true&layout=compact&hide=issues&show_icons=true&theme=dark" />
-
-</p>
-
-<p align="center"> 
-
-<img src="https://github-readme-stats-zenixas.vercel.app/api/top-langs/?username=DrayNeur&layout=compact&theme=dark" /> 
-
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrayNeur&layout=compact&theme=tokyonight)](https://github.com/DrayNeur)
 
 ## 📚Languages:
 - French (Native)
@@ -68,5 +64,7 @@
 - Telegram: @beifungxiao
 - Website: Https://drayneur.gq/
 - Email: drayneur@drayneur.gq
+
+[![HitCount](http://hits.dwyl.com/DrayNeur/DrayNeur.svg?style=flat-square)](http://hits.dwyl.com/DrayNeur/DrayNeur)
 
 #### Have a nice day 👌
