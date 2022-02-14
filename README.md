@@ -1,6 +1,8 @@
 # DrayNeur
 👋 Hi my name is Dimitri Ivanov I'm developer since my young ages and I really like computer science, cryptography and math. I'm open for any project.
 
+Main languages: `C++ & Javascript`
+
 ## 🎈Currently working on:
 - Cryptoip `JS`
 - Discord message encryptor `C++`
@@ -65,6 +67,7 @@
 - Website: Https://drayneur.gq/
 - Email: drayneur@drayneur.gq
 
+Views:
 [![HitCount](http://hits.dwyl.com/DrayNeur/DrayNeur.svg?style=flat-square)](http://hits.dwyl.com/DrayNeur/DrayNeur)
 
 #### Have a nice day 👌
