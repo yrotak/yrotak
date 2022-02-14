@@ -30,6 +30,8 @@ Main languages: `C++ & Javascript`
 <img src="react.svg" width="32" height="32" alt="React"/>
 <img src="node-js.svg" width="32" height="32" alt="NodeJS" />
 <img src="webpack.svg" width="32" height="32" alt="Webpack" />
+<img src="sass.svg" width="32" height="32" alt="Sass" />
+<img src="express.svg" width="32" height="32" alt="Express" />
 
 </p>
 
@@ -39,6 +41,17 @@ Main languages: `C++ & Javascript`
 <img src="mysql.svg" width="32" height="32" alt="MySQL"/>
 <img src="mongodb.svg" width="32" height="32" alt="MongoDB"/>
 
+</p>
+
+## 💻 Operating system
+<p align="center">
+<img src="ubuntu.svg" width="32" height="32" alt="Ubuntu"/><br/>
+Main
+</p>
+
+<p align="center">
+<img src="windows.svg" width="32" height="32" alt="Windows"/><br/>
+KVM GPU Passthrough<br/>(only for gaming)
 </p>
 
 ## 👨‍🎓What I want to learn:
