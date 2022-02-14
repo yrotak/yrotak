@@ -5,7 +5,7 @@ Main languages: `C++ & Javascript`
 
 ## 🎈Currently working on:
 - Cryptoip `JS`
-- Discord message encryptor `C++`
+- Discord message encryptor `JS`
 
 ## 🥇Programming language:
 
