@@ -1,5 +1,5 @@
 # DrayNeur
-👋 Hi my name is Dimitri Ivanov I'm developer since my young ages and I really like computer science, crytography and math. I'm open for any project.
+👋 Hi my name is Dimitri Ivanov I'm developer since my young ages and I really like computer science, cryptography and math. I'm open for any project.
 
 ## 🎈Currently working on:
 - Cryptoip `JS`
