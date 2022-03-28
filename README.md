@@ -77,7 +77,7 @@ KVM GPU Passthrough<br/>(only for gaming)
 
 ### 🧾Contact:
 - Telegram: @beifungxiao
-- Website: Https://drayneur.gq/
+- Website: https://drayneur.gq/
 - Email: drayneur@drayneur.gq
 
 Views:
