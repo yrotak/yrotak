@@ -32,6 +32,7 @@ Main languages: `C++ & Javascript`
 <img src="webpack.svg" width="32" height="32" alt="Webpack" />
 <img src="sass.svg" width="32" height="32" alt="Sass" />
 <img src="express.svg" width="32" height="32" alt="Express" />
+<img src="drogon.svg" width="32" height="32" alt="Drogon" />
 
 </p>
 
@@ -40,6 +41,7 @@ Main languages: `C++ & Javascript`
 <p align="center">
 <img src="mysql.svg" width="32" height="32" alt="MySQL"/>
 <img src="mongodb.svg" width="32" height="32" alt="MongoDB"/>
+<img src="pgsql.svg" width="32" height="32" alt="PostgreSQL"/>
 
 </p>
 
