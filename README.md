@@ -78,8 +78,7 @@ KVM GPU Passthrough<br/>(only for gaming)
 - RayAnticheat `C++`
 
 ### 🧾Contact:
-- Telegram: @beifungxiao
-- Website: https://drayneur.gq/
+- Website: https://drayneur.fr/
 - Email: drayneur@drayneur.gq
 
 Views:
