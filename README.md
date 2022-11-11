@@ -4,8 +4,8 @@
 Main languages: `C++ & Javascript`
 
 ## 🎈Currently working on:
-- Cryptoip `JS`
-- Discord message encryptor `JS`
+- Hazard Engine `C++`
+- neoCryptoip `C++`
 
 ## 🥇Programming language:
 
@@ -72,16 +72,13 @@ KVM GPU Passthrough<br/>(only for gaming)
 - Spannish (Basic)
 - Japanese (Low level, learning)
 
-## 🎭Future projects:
-- Mobile application `React Native`
-- Youtube video cutter and download `NextJS`
-- RayAnticheat `C++`
-
 ### 🧾Contact:
 - Website: https://drayneur.fr/
-- Email: drayneur@drayneur.gq
+- Email: contact@drayneur.fr
 
 Views:
 [![HitCount](http://hits.dwyl.com/DrayNeur/DrayNeur.svg?style=flat-square)](http://hits.dwyl.com/DrayNeur/DrayNeur)
 
 #### Have a nice day 👌
+
+*Judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid*
