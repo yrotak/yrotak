@@ -53,7 +53,6 @@ KVM GPU Passthrough<br/>(only for gaming)
 </p>
 
 ## 👨‍🎓What I want to learn:
-- Rust
 - Carbon
 
 ## 📈 GitHub stats
