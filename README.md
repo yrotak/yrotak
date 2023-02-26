@@ -1,11 +1,7 @@
 # DrayNeur
 👋 Hi my name is Drayneur I'm developer since my young ages and I really like computer science, cryptography and math. I'm open for any project.
 
-Main languages: `C++ & Javascript`
-
-## 🎈Currently working on:
-- Hazard Engine `C++`
-- neoCryptoip `C++`
+Main languages: `C++ & Javascript & Rust`
 
 ## 🥇Programming language:
 
