@@ -33,7 +33,7 @@ Dual boot
 </p>
 
 <p align="center">
-<img src="windows.svg" width="32" height="32" alt="Windows"/><br/>
+<img src="ventura.png" width="32" height="32" alt="Windows"/><br/>
 Macbook pro m1
 </p>
 
