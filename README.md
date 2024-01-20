@@ -1,9 +1,9 @@
-# DrayNeur
-👋 Hi my name is Drayneur I'm developer since my young ages and I really like computer science, cryptography and math. I'm open for any project.
+# yrotak
+👋 Hi my name is yrotak I'm developer since my young ages and I really like computer science, cryptography and math. I'm open for any project.
 
 Main languages: `C++ & Javascript & Rust`
 
-## 🥇Programming language:
+## 🖋️Programming language:
 
 <p align="center">
 <img src="c.svg" width="32" height="32" alt="C++"/>
@@ -19,27 +19,7 @@ Main languages: `C++ & Javascript & Rust`
 
 </p>
 
-## 🖋️Frameworks or library known:
-
-<p align="center">
-<img src="electron.svg" width="32" height="32" alt="Electron"/>
-<img src="react.svg" width="32" height="32" alt="React"/>
-<img src="node-js.svg" width="32" height="32" alt="NodeJS" />
-<img src="webpack.svg" width="32" height="32" alt="Webpack" />
-<img src="sass.svg" width="32" height="32" alt="Sass" />
-<img src="express.svg" width="32" height="32" alt="Express" />
-<img src="drogon.svg" width="32" height="32" alt="Drogon" />
-
-</p>
-
 ## 🗃️Database known:
-
-<p align="center">
-<img src="mysql.svg" width="32" height="32" alt="MySQL"/>
-<img src="mongodb.svg" width="32" height="32" alt="MongoDB"/>
-<img src="pgsql.svg" width="32" height="32" alt="PostgreSQL"/>
-
-</p>
 
 ## 💻 Operating system
 <p align="center">
@@ -49,7 +29,12 @@ Main
 
 <p align="center">
 <img src="windows.svg" width="32" height="32" alt="Windows"/><br/>
-KVM GPU Passthrough<br/>(only for gaming)
+Dual boot
+</p>
+
+<p align="center">
+<img src="windows.svg" width="32" height="32" alt="Windows"/><br/>
+Macbook pro m1
 </p>
 
 ## 👨‍🎓What I want to learn:
@@ -57,22 +42,14 @@ KVM GPU Passthrough<br/>(only for gaming)
 
 ## 📈 GitHub stats
 
-![DrayNeur's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrayNeur&show_icons=true&theme=tokyonight)
+![yrotak's GitHub stats](https://github-readme-stats.vercel.app/api?username=yrotak&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrayNeur&layout=compact&theme=tokyonight)](https://github.com/DrayNeur)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrotak&layout=compact&theme=tokyonight)](https://github.com/yrotak)
 
 ## 📚Languages:
 - French (Native)
 - English (Fluent)
 - Spannish (Basic)
-- Japanese (Low level, learning)
-
-### 🧾Contact:
-- Website: https://www.drayneur.fr/
-- Email: contact@drayneur.fr
-
-Views:
-[![HitCount](http://hits.dwyl.com/DrayNeur/DrayNeur.svg?style=flat-square)](http://hits.dwyl.com/DrayNeur/DrayNeur)
 
 #### Have a nice day 👌
 
