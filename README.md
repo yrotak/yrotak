@@ -19,8 +19,6 @@ Main languages: `C++ & Javascript & Rust`
 
 </p>
 
-## 🗃️Database known:
-
 ## 💻 Operating system
 <p align="center">
 <img src="ubuntu.svg" width="32" height="32" alt="Ubuntu"/><br/>
