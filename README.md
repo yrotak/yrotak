@@ -47,7 +47,7 @@ Macbook pro m1
 ## 📚Languages:
 - French (Native)
 - English (Fluent)
-- Spannish (Basic)
+- Spanish (Basic)
 
 #### Have a nice day 👌
 
