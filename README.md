@@ -6,16 +6,7 @@ Main languages: `C++ & Javascript & Rust`
 ## 🖋️Programming language:
 
 <p align="center">
-<img src="c.svg" width="32" height="32" alt="C++"/>
-<img src="html5.svg" width="32" height="32" alt="HTML"/>
-<img src="css3.svg" width="32" height="32" alt="CSS" />
-<img src="javascript.svg" width="32" height="32" alt="Javascript" />
-<img src="csharp.svg" width="32" height="32" alt="C#" />
-<img src="java.svg" width="32" height="32" alt="Java" />
-<img src="php.svg" width="32" height="32" alt="PHP" />
-<img src="rust.svg" width="32" height="32" alt="Rust" />
-<img src="python.svg" width="32" height="32" alt="Python" />
-<img src="lua.svg" width="32" height="32" alt="Lua" />
+C, C++, Rust, Java, C# (+Unity), Python, Javascript (NodeJS, ReactJS, NextJS), Java, WEB (HTML, CSS), PHP, ASM
 
 </p>
 
