@@ -130,8 +130,8 @@ yrotak@epita:~$ sudo ./hire_me.sh
 
 <div align="center">
 
-<a href="https://app.hackthebox.com/profile/019ee18c-5d93-732f-8a46-692c81510861">
-  <img src="https://www.hackthebox.com/badge/image/019ee18c-5d93-732f-8a46-692c81510861" alt="HackTheBox" width="350"/>
+<a href="https://app.hackthebox.com/users/574528">
+  <img src="https://www.hackthebox.com/badge/image/574528" alt="HackTheBox" width="350"/>
 </a>
 
 <br/>
@@ -185,7 +185,7 @@ yrotak@epita:~$ sudo ./hire_me.sh
 <div align="center">
 
 <a href="https://github.com/yrotak"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://app.hackthebox.com/profile/019ee18c-5d93-732f-8a46-692c81510861"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
+<a href="https://app.hackthebox.com/users/574528"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
 <a href="https://www.root-me.org/DrayNeur"><img src="https://img.shields.io/badge/Root--Me-2c3e50?style=for-the-badge&logo=hackthebox&logoColor=white"/></a>
 <a href="https://leetcode.com/yrotak"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
