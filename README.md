@@ -39,9 +39,9 @@ yrotak@epita:~$ sudo ./hire_me.sh
 
 ### Experience
 
-<img src="https://img.shields.io/badge/Internships-0x02-016e05?style=for-the-badge&labelColor=0d1117&logo=briefcase&logoColor=00ff9f" alt="internships"/>
+<img src="https://img.shields.io/badge/Internships-02-016e05?style=for-the-badge&labelColor=0d1117&logo=briefcase&logoColor=00ff9f" alt="internships"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Full--time_Positions-0x00-ff5555?style=for-the-badge&labelColor=0d1117" alt="full-time positions"/>
+<img src="https://img.shields.io/badge/Full--time_Positions-00-ff5555?style=for-the-badge&labelColor=0d1117" alt="full-time positions"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open_to_opportunities-016e05?style=for-the-badge&labelColor=0d1117" alt="status"/>
 
