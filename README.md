@@ -96,12 +96,12 @@ yrotak@epita:~$ sudo ./hire_me.sh
 <div align="center">
 <table>
   <tr align="center">
-    <td><img src="assets/re/ghidra.png" height="50" alt="Ghidra"/><br/><sub>Ghidra</sub></td>
-    <td><img src="assets/re/ida.png" height="50" alt="IDA Pro"/><br/><sub>IDA Pro</sub></td>
-    <td><img src="assets/re/x64dbg.png" height="50" alt="x64dbg"/><br/><sub>x64dbg</sub></td>
-    <td><img src="assets/re/cheatengine.png" height="50" alt="Cheat Engine"/><br/><sub>Cheat Engine</sub></td>
-    <td><img src="assets/re/die.png" height="50" alt="Detect It Easy"/><br/><sub>Detect It Easy</sub></td>
-    <td><img src="assets/re/reclass.png" height="50" alt="ReClass.NET"/><br/><sub>ReClass.NET</sub></td>
+    <td><img src="ghidra.png" height="50" alt="Ghidra"/><br/><sub>Ghidra</sub></td>
+    <td><img src="ida.png" height="50" alt="IDA Pro"/><br/><sub>IDA Pro</sub></td>
+    <td><img src="x64dbg.png" height="50" alt="x64dbg"/><br/><sub>x64dbg</sub></td>
+    <td><img src="cheatengine.png" height="50" alt="Cheat Engine"/><br/><sub>Cheat Engine</sub></td>
+    <td><img src="die.svg" height="50" alt="Detect It Easy"/><br/><sub>Detect It Easy</sub></td>
+    <td><img src="reclass.png" height="50" alt="ReClass.NET"/><br/><sub>ReClass.NET</sub></td>
   </tr>
 </table>
 </div>
