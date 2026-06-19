@@ -59,8 +59,8 @@ yrotak@epita:~$ sudo ./hire_me.sh
   <tr valign="middle">
     <td align="right"><img src="https://img.shields.io/badge/Assembly-016e05?style=for-the-badge&labelColor=0d1117" alt="Assembly"/></td>
     <td align="left">
-      <img src="https://img.shields.io/badge/x86--64-016e05?style=for-the-badge&labelColor=0d1117" alt="x86-64"/>
-      <img src="https://img.shields.io/badge/Motorola_68000-016e05?style=for-the-badge&labelColor=0d1117" alt="68000"/>
+      <img src="https://img.shields.io/badge/x86--64-0d1117?style=for-the-badge&labelColor=0d1117" alt="x86-64"/>
+      <img src="https://img.shields.io/badge/Motorola_68000-0d1117?style=for-the-badge&labelColor=0d1117" alt="68000"/>
     </td>
   </tr>
   <tr valign="middle">
