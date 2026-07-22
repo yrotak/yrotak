@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:016e05&height=220&section=header&text=Yrotak&fontColor=00ff9f&fontSize=80&fontAlignY=38&animation=fadeIn&desc=Reverse%20Engineer%20%E2%80%A2%20Low-level%20Dev%20%E2%80%A2%20Sysadmin&descAlignY=58&descSize=18&descColor=c9d1d9" width="100%"/>
 
 <a href="https://github.com/yrotak">
