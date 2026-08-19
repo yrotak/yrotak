@@ -3,7 +3,6 @@
 <a href="https://github.com/yrotak">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9F&center=true&vCenter=true&width=650&lines=Reverse+Engineer+%7C+Low-level+Developer;C%2B%2B+%26+Rust+are+my+main+languages;Cheats+%26+Anti-Cheat+internals;Sysadmin+%26+Homelab+enthusiast;EPITA+Student+who+loves+rigorous+projects" alt="typing"/>
 </a>
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=yrotak&label=Profile%20views&color=016e05&style=flat-square" alt="views"/>
