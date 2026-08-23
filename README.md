@@ -137,7 +137,7 @@ yrotak@epita:~$ sudo ./hire_me.sh
 
 <br/>
 
-<a href="https://app.hackthebox.com/profile/019ee18c-5d93-732f-8a46-692c81510861"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB"/></a>
+<a href="https://app.hackthebox.com/users/574528"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB"/></a>
 <a href="https://www.root-me.org/DrayNeur"><img src="https://img.shields.io/badge/Root--Me-2c3e50?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Root-Me"/></a>
 <a href="https://leetcode.com/yrotak"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 
