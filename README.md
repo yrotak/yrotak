@@ -32,17 +32,34 @@ yrotak@epita:~$ sudo ./hire_me.sh
 [+] Mindset ......... rigor, curiosity, deep technical work
 ```
 
+<!-- Below this line is written from the record behind alyster.eu on 2026-10-03. Everything above it is kept as it is on GitHub. -->
+
 <div align="center">
 
 ### Experience
 
-<img src="https://img.shields.io/badge/Internships-02-016e05?style=for-the-badge&labelColor=0d1117&logo=briefcase&logoColor=00ff9f" alt="internships"/>
+<img src="https://img.shields.io/badge/Internships-02-016e05?style=for-the-badge&labelColor=0d1117" alt="Internships: 2"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Full--time_Positions-00-ff5555?style=for-the-badge&labelColor=0d1117" alt="full-time positions"/>
+<img src="https://img.shields.io/badge/Full--time_Positions-00-ff5555?style=for-the-badge&labelColor=0d1117" alt="Full-time Positions: 0"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open_to_opportunities-016e05?style=for-the-badge&labelColor=0d1117" alt="status"/>
+<img src="https://img.shields.io/badge/Part--time_Positions-01-016e05?style=for-the-badge&labelColor=0d1117" alt="Part-time Positions: 1"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open_to_work-016e05?style=for-the-badge&labelColor=0d1117" alt="Status: Open to work"/>
 
 </div>
+
+| Role | Where | Type | When |
+|:--|:--|:--|:--|
+| **C & Rust Programming Teaching Assistant - ASM** | [EPITA: Computer Science school](https://www.epita.fr/) | Part-time | Sep 2026 → present |
+| **Maintenance technician** | [SMAC Paloma](https://paloma-nimes.fr/) | Internship | May 2026 → Jul 2026 |
+| **On field system administrator** | [Novatim Septeo](https://www.septeo.com/) | Internship | Jun 2022 |
+
+## `> education`
+
+| Degree | School | When |
+|:--|:--|:--|
+| Master, Computer Science | EPITA: Computer science school | Sep 2024 → present |
+| Baccalaureate, Mathematics, Physics<br/><sub>Mention bien</sub> | Alphonse Daudet Highschool | Sep 2021 → Sep 2024 |
 
 ## `> tech_stack`
 
@@ -50,110 +67,143 @@ yrotak@epita:~$ sudo ./hire_me.sh
 
 <table>
   <tr valign="middle">
-    <td align="right"><img src="https://img.shields.io/badge/Languages-016e05?style=for-the-badge&labelColor=0d1117" alt="Languages"/></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=cpp,rust,c,cs,java,py,js,php,lua&perline=10" alt="languages"/></td>
-  </tr>
-  <tr valign="middle">
-    <td align="right"><img src="https://img.shields.io/badge/Assembly-016e05?style=for-the-badge&labelColor=0d1117" alt="Assembly"/></td>
+    <td align="right"><img src="https://img.shields.io/badge/Programming_languages-016e05?style=for-the-badge&labelColor=0d1117" alt="Programming languages"/></td>
     <td align="left">
-      <img src="https://img.shields.io/badge/x86--64-0d1117?style=for-the-badge&labelColor=0d1117" alt="x86-64"/>
-      <img src="https://img.shields.io/badge/Motorola_68000-0d1117?style=for-the-badge&labelColor=0d1117" alt="68000"/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,rust,cs,java,py,js,php,html,css&perline=10" alt="C, C++, Rust, C#, Java, Python, Javascript, PHP, HTML, CSS"/>
+      <img src="https://img.shields.io/badge/Motorola_68000-0d1117?style=for-the-badge&logo=motorola&logoColor=white" alt="Motorola 68000"/>
     </td>
   </tr>
   <tr valign="middle">
-    <td align="right"><img src="https://img.shields.io/badge/Frameworks-016e05?style=for-the-badge&labelColor=0d1117" alt="Frameworks"/></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,nextjs,unity,tauri&perline=10" alt="frameworks"/></td>
-  </tr>
-  <tr valign="middle">
-    <td align="right"><img src="https://img.shields.io/badge/Web-016e05?style=for-the-badge&labelColor=0d1117" alt="Web"/></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=html,css,sass&perline=10" alt="web"/></td>
-  </tr>
-  <tr valign="middle">
     <td align="right"><img src="https://img.shields.io/badge/Databases-016e05?style=for-the-badge&labelColor=0d1117" alt="Databases"/></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=10" alt="databases"/></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=10" alt="PostgreSQL, MongoDB, MySQL"/>
+    </td>
   </tr>
   <tr valign="middle">
-    <td align="right"><img src="https://img.shields.io/badge/OS-016e05?style=for-the-badge&labelColor=0d1117" alt="OS"/></td>
+    <td align="right"><img src="https://img.shields.io/badge/Operating_system-016e05?style=for-the-badge&labelColor=0d1117" alt="Operating system"/></td>
     <td align="left">
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-      <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
+      <img src="https://skillicons.dev/icons?i=windows,linux,apple,redhat&perline=10" alt="Windows, Linux, MacOS, RHEL"/>
+    </td>
+  </tr>
+  <tr valign="middle">
+    <td align="right"><img src="https://img.shields.io/badge/Frameworks_%26_Libraries-016e05?style=for-the-badge&labelColor=0d1117" alt="Frameworks &amp; Libraries"/></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=sass,dotnet,nodejs,react,nextjs,unity,tauri,electron&perline=10" alt="Sass, .NET, NodeJS, React, NextJS, Unity, Tauri, Electron"/>
+      <img src="https://img.shields.io/badge/Juce_VST-0d1117?style=for-the-badge&logo=juce&logoColor=white" alt="Juce VST"/>
+      <img src="https://alyster.eu/media/6rw5bHFct9SNu7hh.webp" height="48" alt="ImGUI" title="ImGUI"/>
+      <img src="https://img.shields.io/badge/Windows_KMDF-0d1117?style=for-the-badge" alt="Windows KMDF"/>
+    </td>
+  </tr>
+  <tr valign="middle">
+    <td align="right"><img src="https://img.shields.io/badge/Network-016e05?style=for-the-badge&labelColor=0d1117" alt="Network"/></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=cloudflare,ansible&perline=10" alt="Cloudflare, Ansible"/>
+      <img src="https://img.shields.io/badge/Mikrotik-0d1117?style=for-the-badge&logo=mikrotik&logoColor=white" alt="Mikrotik"/>
+      <img src="https://img.shields.io/badge/Proxmox-0d1117?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
+      <img src="https://img.shields.io/badge/Authentik-0d1117?style=for-the-badge&logo=authentik&logoColor=white" alt="Authentik"/>
+    </td>
+  </tr>
+  <tr valign="middle">
+    <td align="right"><img src="https://img.shields.io/badge/Other-016e05?style=for-the-badge&labelColor=0d1117" alt="Other"/></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=git&perline=10" alt="Git"/>
+      <img src="https://img.shields.io/badge/Digital_Sound_Processing-0d1117?style=for-the-badge" alt="Digital Sound Processing"/>
+      <img src="https://img.shields.io/badge/REST-0d1117?style=for-the-badge" alt="REST"/>
     </td>
   </tr>
 </table>
 
 </div>
 
-## `> reverse_engineering`
-
-> Strong experience reversing **.NET**, **C++**, **C** and **JavaScript** targets — including deep knowledge of **modern & sophisticated game cheats and anti-cheats**.
-
-**Toolkit**
+**Reverse Engineering**
 
 <div align="center">
 <table>
   <tr align="center">
-    <td><img src="ghidra.png" height="50" alt="Ghidra"/><br/><sub>Ghidra</sub></td>
-    <td><img src="ida.png" height="50" alt="IDA Pro"/><br/><sub>IDA Pro</sub></td>
-    <td><img src="x64dbg.png" height="50" alt="x64dbg"/><br/><sub>x64dbg</sub></td>
-    <td><img src="cheatengine.png" height="50" alt="Cheat Engine"/><br/><sub>Cheat Engine</sub></td>
-    <td><img src="die.svg" height="50" alt="Detect It Easy"/><br/><sub>Detect It Easy</sub></td>
-    <td><img src="reclass.png" height="50" alt="ReClass.NET"/><br/><sub>ReClass.NET</sub></td>
+    <td><img src="https://alyster.eu/media/u6z_Zfl-xiMzOSkL.webp" height="50" alt="Ghidra"/><br/><sub>Ghidra</sub></td>
+    <td><img src="https://alyster.eu/media/SgJ5X9AQfsOvEV7J.webp" height="50" alt="x64dbg"/><br/><sub>x64dbg</sub></td>
+    <td><img src="https://alyster.eu/media/ZGldG5Hyf9OX2lSi.webp" height="50" alt="Cheat Engine"/><br/><sub>Cheat Engine</sub></td>
   </tr>
 </table>
 </div>
 
-**Domains:** anti-cheat internals & evasion · binary analysis · unpacking · memory manipulation · obfuscation / deobfuscation
+<p align="center"><sub>How long each has been held: <a href="https://alyster.eu/skills/">alyster.eu/skills</a></sub></p>
 
-## `> sysadmin & homelab`
+## `> projects`
 
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Authentik](https://img.shields.io/badge/Authentik-FD4B2D?style=for-the-badge&logo=authentik&logoColor=white)
-![SSO / OAuth](https://img.shields.io/badge/SSO_%2F_OAuth-016e05?style=for-the-badge&labelColor=0d1117)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| Project | What it is | Built with | When |
+|:--|:--|:--|:--|
+| **[Live Tune](https://github.com/yrotak/live-tune)**<br/><img src="https://img.shields.io/github/stars/yrotak/live-tune?style=flat-square&color=016e05&label=%E2%98%85" alt="stars"/> | A VST that automatically tune your voice in real time using machine learning and DSP | C++ · Juce VST · Digital Sound Processing · Git | Aug 2026 → present |
+| **[Captcha Rouille](https://alyster.eu/projects/captcha-rouille/)** | EPITA, second year project, A bot-fighting CAPTCHA written entirely in Rust with ai CNN model, image processing and multiple algorithms | Rust · Sass · Git · REST | Jan 2026 → May 2026 |
+| **[OCR hidden words](https://alyster.eu/projects/ocr-hidden-words/)** | EPITA, second year project, an image OCR hidden words solver using image processing and AI | C · Git | Sep 2025 → Dec 2025 |
+| **[Phase align](https://github.com/yrotak/phase-align)**<br/><img src="https://img.shields.io/github/stars/yrotak/phase-align?style=flat-square&color=016e05&label=%E2%98%85" alt="stars"/> | A tool that can sync audio tracks automatically using DSP techniques | C++ · Digital Sound Processing · Git · ImGUI | Jun 2025 |
+| **[Skyline](https://alyster.eu/projects/skyline/)** | EPITA, first year project, a Unity 3D C# multiplayer FPS PvP game with multiple public server and a global scoreboard | C# · Rust · PostgreSQL · NextJS · Unity · Git | Sep 2024 → Jun 2025 |
+| **[Cryptoip](https://github.com/yrotak/cryptoip)**<br/><img src="https://img.shields.io/github/stars/yrotak/cryptoip?style=flat-square&color=016e05&label=%E2%98%85" alt="stars"/> | A secure, end-to-end encrypted and anonymous VOIP and chat app | C++ · Javascript · React · Git · Electron · ImGUI | Dec 2020 → Oct 2022 |
+| **[PAUC Anticheat](https://alyster.eu/projects/pauc-anticheat/)** | Windows Ring 0 KDMF game anti-cheat in C/C++ | C · C++ · Windows · Cheat Engine · Windows KMDF | Jun 2021 → Aug 2021 |
+| **[JSBatchDeobfuscator](https://github.com/yrotak/JSBatchDeobfuscator)**<br/><img src="https://img.shields.io/github/stars/yrotak/JSBatchDeobfuscator?style=flat-square&color=016e05&label=%E2%98%85" alt="stars"/> | A C# deobfuscator for the guillaC/JSBatchobfuscator | C# · Windows · Git | May 2020 |
 
-- **Virtualization / orchestration:** Proxmox, Ansible playbooks
-- **Networking:** MikroTik (RouterOS), fiber connectivity — ONT, GPON
-- **Identity:** Authentik, SSO & OAuth
-- **Systems:** RHEL, administration best practices, hardening & common vulnerabilities
-- **Personal lab:** fully self-hosted infrastructure
-
-> 🏠 **Homelab setup & infra → [github.com/yrotak/infrastructure](https://github.com/yrotak/infrastructure)**
+<p align="center"><sub>Every project taken apart: <a href="https://alyster.eu/projects/">alyster.eu/projects</a></sub></p>
 
 ## `> ctf & platforms`
 
 <div align="center">
 
 <a href="https://app.hackthebox.com/users/574528">
-  <img src="https://www.hackthebox.com/badge/image/574528" alt="HackTheBox" width="350"/>
+  <img src="https://www.hackthebox.com/badge/image/574528" alt="Hack The Box" width="350"/>
 </a>
 
 <br/>
 
-<img src="https://leetcard.jacoblin.cool/yrotak?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="350"/>
+<a href="https://leetcode.com/u/yrotak/">
+  <img src="https://leetcard.jacoblin.cool/yrotak?theme=dark&ext=heatmap" alt="LeetCode stats" width="350"/>
+</a>
 
 <br/>
 
-<a href="https://app.hackthebox.com/users/574528"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB"/></a>
-<a href="https://www.root-me.org/DrayNeur"><img src="https://img.shields.io/badge/Root--Me-2c3e50?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Root-Me"/></a>
-<a href="https://leetcode.com/yrotak"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://leetcode.com/u/yrotak/"><img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode"/></a>
+<a href="https://www.root-me.org/DrayNeur"><img src="https://img.shields.io/badge/RootMe-2c3e50?style=for-the-badge&logo=rootme&logoColor=white" alt="RootMe"/></a>
+<a href="https://app.hackthebox.com/users/574528"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box"/></a>
 
 </div>
 
-## `> certifications`
+## `> competitions`
 
-| Certification | Issuer | Status |
-|:--|:--|:--:|
-| ![Ethical Hacker](https://img.shields.io/badge/Ethical_Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) | Cisco Networking Academy | ![Soon](https://img.shields.io/badge/Soon-016e05?style=for-the-badge&labelColor=0d1117) |
-| ![Junior Cybersecurity Analyst](https://img.shields.io/badge/Jr._Cybersecurity_Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) | Cisco Networking Academy | ![Soon](https://img.shields.io/badge/Soon-016e05?style=for-the-badge&labelColor=0d1117) |
-| ![FCF](https://img.shields.io/badge/Certified_Fundamentals_(Cybersecurity)-EE3124?style=for-the-badge&logo=fortinet&logoColor=white) | Fortinet | ![Soon](https://img.shields.io/badge/Soon-016e05?style=for-the-badge&labelColor=0d1117) |
-| ![VMDR](https://img.shields.io/badge/VMDR-ED2E26?style=for-the-badge&logo=qualys&logoColor=white) | Qualys | ![Soon](https://img.shields.io/badge/Soon-016e05?style=for-the-badge&labelColor=0d1117) |
-| ![Splunk Core User](https://img.shields.io/badge/Core_Certified_User-000000?style=for-the-badge&logo=splunk&logoColor=F2A900) | Splunk | ![Soon](https://img.shields.io/badge/Soon-016e05?style=for-the-badge&labelColor=0d1117) |
-| ![JS Algorithms](https://img.shields.io/badge/JavaScript_Algorithms_%26_DS-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white) | freeCodeCamp | ![Soon](https://img.shields.io/badge/Soon-016e05?style=for-the-badge&labelColor=0d1117) |
+| Competition | Field | Organiser | When |
+|:--|:--|:--|:--|
+| **Ace Cup Series** | Sport | Ace Squad | Feb 2026 |
 
+## `> interests`
+
+<details>
+<summary><b>Reverse Engineering</b></summary>
+
+I always wondered how the things that surrounded me worked, well I learned it the unconventional way, by breaking them apart to see what was inside, from TV remotes to electronic toys to my dad power tools, and now in electronic circuits and computer software.
+
+</details>
+<details>
+<summary><b>Sports</b></summary>
+
+When I was a kid, I was never the kind of child who wanted to do sports. Then one day it struck me: all of a sudden, I started block climbing and later street workout. Now I train heavily in street lifting, with the goal of one day becoming a champion.
+
+</details>
+<details>
+<summary><b>Botany</b></summary>
+
+One day, I was invited to a friend's party where I met someone who had a beautiful greenhouse with extremely rare exotic plants. This fascinated me so much that I frantically started learning everything about plants, their biology, and new ways to grow crops to produce food the way nature intended, like permaculture.
+
+</details>
+<details>
+<summary><b>Coding</b></summary>
+
+Coding was the first step I took in the field of computer science. It all started when I discovered Arduino boards and a whole new world where I could build anything my mind imagined.
+
+</details>
+<details>
+<summary><b>Sysadmin</b></summary>
+
+I really enjoy building complex infrastructure that must withstand heavy use, be extremely secure with the best standards, and be very reliable so that I don't need to fix it every time.
+
+</details>
 
 ## `> github_stats`
 
@@ -166,31 +216,20 @@ yrotak@epita:~$ sudo ./hire_me.sh
 
 <img src="https://streak-stats.demolab.com?user=yrotak&hide_border=true&background=0d1117&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
 
-
-</div>
-
-## `> activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yrotak&bg_color=0d1117&color=00ff9f&line=00ff9f&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph"/>
-
 </div>
 
 ## `> contact`
 
 <div align="center">
 
-<a href="https://github.com/yrotak"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://app.hackthebox.com/users/574528"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
-<a href="https://www.root-me.org/DrayNeur"><img src="https://img.shields.io/badge/Root--Me-2c3e50?style=for-the-badge&logo=hackthebox&logoColor=white"/></a>
-<a href="https://leetcode.com/yrotak"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-
-<br/>
-
-<!-- <a href="https://linkedin.com/in/LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-016e05?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a> -->
+<a href="https://alyster.eu"><img src="https://img.shields.io/badge/alyster.eu-016e05?style=for-the-badge&labelColor=0d1117" alt="Website"/></a>
+<a href="https://alyster.eu/contact/"><img src="https://img.shields.io/badge/Contact-016e05?style=for-the-badge&labelColor=0d1117" alt="Contact"/></a>
+<a href="https://github.com/yrotak"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
+<a href="https://leetcode.com/u/yrotak/"><img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode"/></a>
+<a href="https://www.root-me.org/DrayNeur"><img src="https://img.shields.io/badge/RootMe-2c3e50?style=for-the-badge&logo=rootme&logoColor=white" alt="RootMe"/></a>
+<a href="https://app.hackthebox.com/users/574528"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box"/></a>
+<a href="https://www.linkedin.com/in/alyster-eugene-12a791439/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:016e05,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:016e05,100:0d1117&height=120&section=footer" width="100%" alt=""/>
