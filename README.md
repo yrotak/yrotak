@@ -32,7 +32,7 @@ yrotak@epita:~$ sudo ./hire_me.sh
 [+] Mindset ......... rigor, curiosity, deep technical work
 ```
 
-<!-- Below this line is written from the record behind alyster.eu on 2026-10-03. Everything above it is kept as it is on GitHub. -->
+<!-- Below this line is written from the record behind alyster.eu on 2026-10-08. Everything above it is kept as it is on GitHub. -->
 
 <div align="center">
 
@@ -95,7 +95,7 @@ yrotak@epita:~$ sudo ./hire_me.sh
     </td>
   </tr>
   <tr valign="middle">
-    <td align="right"><img src="https://img.shields.io/badge/Network-016e05?style=for-the-badge&labelColor=0d1117" alt="Network"/></td>
+    <td align="right"><img src="https://img.shields.io/badge/Sysadmin-016e05?style=for-the-badge&labelColor=0d1117" alt="Sysadmin"/></td>
     <td align="left">
       <img src="https://skillicons.dev/icons?i=cloudflare,ansible&perline=10" alt="Cloudflare, Ansible"/>
       <img src="https://img.shields.io/badge/Mikrotik-0d1117?style=for-the-badge&logo=mikrotik&logoColor=white" alt="Mikrotik"/>
@@ -106,7 +106,7 @@ yrotak@epita:~$ sudo ./hire_me.sh
   <tr valign="middle">
     <td align="right"><img src="https://img.shields.io/badge/Other-016e05?style=for-the-badge&labelColor=0d1117" alt="Other"/></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=git&perline=10" alt="Git"/>
+      <img src="https://skillicons.dev/icons?i=git,docker&perline=10" alt="Git, Docker"/>
       <img src="https://img.shields.io/badge/Digital_Sound_Processing-0d1117?style=for-the-badge" alt="Digital Sound Processing"/>
       <img src="https://img.shields.io/badge/REST-0d1117?style=for-the-badge" alt="REST"/>
     </td>
